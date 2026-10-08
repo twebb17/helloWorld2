@@ -1,0 +1,30 @@
+p {
+    color: darkgreen;
+    font-size: 20px;
+}
+/*Style for all paragraphs*/
+
+h2 {
+    color: green;
+    border: 1px solid darkgreen;
+    text-decoration: underline;
+}
+/*Style for all headers*/
+
+table, td, th {
+    border: 2px solid darkolivegreen;
+}
+/*Border style for tables*/
+
+p#special {
+    color: darkgrey;
+}
+
+div.thicker {
+    font-weight: bold;
+}
+
+img.logo {
+    height: 100px;
+    width: 350px;
+}
